@@ -1,0 +1,557 @@
+{
+	"api": "mtop.film.MtopShowAPI.getSoonShowsByCityCode",
+	"data": {
+	    "count": "339",
+	    "returnCode": "0",
+	    "returnValue": [
+	        {
+	            "country": "德国 澳大利亚 加拿大 美国",
+	            "director": "保罗·安德森",
+	            "duration": "106",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "168405",
+	            "isWant": "false",
+	            "leadingRole": "米拉·乔沃维奇,文特沃斯·米勒,李冰冰,西耶娜·盖尔利,肖恩·罗伯茨,乔翰·厄布",
+	            "openDay": "2017-02-28 00:00:00",
+	            "openTime": "2017-02",
+	            "orderCount": "0",
+	            "poster": "i4/TB1kGuoPpXXXXXBXXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50496541.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50496541.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50496541.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/50496541.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1icqDPpXXXXc.XXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "146",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50496541.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50496541.mp4",
+	                    "title": "女神归来版预告",
+	                    "uploadTime": "2017-02-06 10:29:45",
+	                    "videoId": "50496541"
+	                }
+	            ],
+	            "remark": "9.4",
+	            "showName": "生化危机6：终章",
+	            "showNameEn": "Resident Evil: The Final Chapter",
+	            "type": "动作 恐怖 科幻",
+	            "wantCount": "231156"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "Andrea Klarin",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "201244",
+	            "isWant": "false",
+	            "leadingRole": "郭碧婷,胜利,李贤宰,张亮",
+	            "openDay": "2017-02-28 00:00:00",
+	            "openTime": "2017-02",
+	            "orderCount": "0",
+	            "poster": "i4/TB1_fTIKVXXXXbGXVXXXXXXXXXX_.jpg",
+	            "preview": [
+	                
+	            ],
+	            "remark": "9.1",
+	            "showName": "宇爱同游",
+	            "type": "剧情 喜剧",
+	            "wantCount": "8032"
+	        },
+	        {
+	            "country": "美国",
+	            "director": "莱塞·霍尔斯道姆",
+	            "duration": "100",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "212274",
+	            "isWant": "false",
+	            "leadingRole": "布丽特妮·罗伯森,丹尼斯·奎德,佩吉·利普顿,乔什·盖德",
+	            "openDay": "2017-03-03 00:00:00",
+	            "openTime": "2017-03-03",
+	            "orderCount": "0",
+	            "poster": "i2/TB13kd9PpXXXXaBXpXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50385864.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50385864.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50385864.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/50385864.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB11op_PpXXXXbgXXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "72",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50385864.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50385864.mp4",
+	                    "title": "《一条狗的使命》定档预告",
+	                    "uploadTime": "2017-02-02 22:09:22",
+	                    "videoId": "50385864"
+	                }
+	            ],
+	            "remark": "8.5",
+	            "showName": "一条狗的使命",
+	            "showNameEn": "A Dog's Purpose",
+	            "type": "剧情 喜剧",
+	            "wantCount": "25976"
+	        },
+	        {
+	            "country": "美国",
+	            "director": "克里斯·麦凯",
+	            "duration": "104",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "163789",
+	            "isWant": "false",
+	            "leadingRole": "威尔·阿奈特,迈克尔·塞拉,扎克·加利费安纳基斯,罗莎里奥·道森,威尔·阿奈特,拉尔夫·费因斯,罗莎里奥·道森",
+	            "openDay": "2017-03-03 00:00:00",
+	            "openTime": "2017-03-03",
+	            "orderCount": "0",
+	            "poster": "i1/TB1_2ZWPXXXXXXwaXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50254035.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50254035.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50254035.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/50254035.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1ltAQPXXXXXbcaXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "119",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50254035.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50254035.mp4",
+	                    "title": "定档预告片",
+	                    "uploadTime": "2017-01-25 17:44:58",
+	                    "videoId": "50254035"
+	                }
+	            ],
+	            "remark": "8.8",
+	            "showMark": "IMAX3D",
+	            "showName": "乐高蝙蝠侠大电影",
+	            "showNameEn": "The Lego Batman Movie",
+	            "type": "动画 喜剧 动作",
+	            "wantCount": "8041"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "王俊潾",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "血离奇，探秘古宅灵异事件",
+	            "id": "206049",
+	            "isWant": "false",
+	            "leadingRole": "辉灿,周昕妤",
+	            "openDay": "2017-03-03 00:00:00",
+	            "openTime": "2017-03-03",
+	            "orderCount": "0",
+	            "poster": "i2/TB1I.9JPXXXXXXMXpXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/46812733.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/46812733.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/46812733.mp4",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1iD1bOXXXXXcqXpXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "71",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/46812733.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/46812733.mp4",
+	                    "title": "先导版预告",
+	                    "uploadTime": "2016-11-03 17:24:50",
+	                    "videoId": "46812733"
+	                }
+	            ],
+	            "remark": "5.9",
+	            "showName": "惊魂绣花鞋",
+	            "showNameEn": "Frightening Embriodery Shoes",
+	            "type": "惊悚 恐怖",
+	            "wantCount": "6208"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "邱晓军",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "210721",
+	            "isWant": "false",
+	            "leadingRole": "万梓良,文熙,沈璐,范薇",
+	            "openDay": "2017-03-03 00:00:00",
+	            "openTime": "2017-03-03",
+	            "orderCount": "0",
+	            "poster": "2/TB1CXlXPpXXXXaMXFXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/48511938.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/48511938.mp4",
+	                        "hd": "",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img03.taobaocdn.com/bao/uploaded/TB1yXQuOFXXXXb7XVXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "48",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/48511938.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/48511938.mp4",
+	                    "title": "意大利梦版",
+	                    "uploadTime": "2016-12-15 00:54:36",
+	                    "videoId": "48511938"
+	                }
+	            ],
+	            "remark": "7.5",
+	            "showName": "爱情对赌",
+	            "type": "剧情",
+	            "wantCount": "1540"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "刘一君",
+	            "duration": "93",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "212759",
+	            "isWant": "false",
+	            "leadingRole": "李嘉诺,高健",
+	            "openDay": "2017-03-03 00:00:00",
+	            "openTime": "2017-03-03",
+	            "orderCount": "0",
+	            "poster": "i3/TB195igPpXXXXb4XXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                
+	            ],
+	            "showName": "放学后",
+	            "showNameEn": "After School",
+	            "type": "剧情",
+	            "wantCount": "212"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "郑建国",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "212801",
+	            "isWant": "false",
+	            "leadingRole": "阿牛,江若琳",
+	            "openDay": "2017-03-03 00:00:00",
+	            "openTime": "2017-03-03",
+	            "orderCount": "0",
+	            "poster": "i4/TB122qlPpXXXXaJXVXXXXXXXXXX_.jpg",
+	            "preview": [
+	                
+	            ],
+	            "showName": "为爱担当",
+	            "showNameEn": "Spring Love Story",
+	            "type": "喜剧 爱情",
+	            "wantCount": "5"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "Mi-na Hwang",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "211735",
+	            "isWant": "false",
+	            "leadingRole": "闫妮,杜天皓",
+	            "openDay": "2017-03-10 00:00:00",
+	            "openTime": "2017-03-10",
+	            "orderCount": "0",
+	            "poster": "i1/TB1b1.8OVXXXXXBapXXXXXXXXXX_.jpg",
+	            "preview": [
+	                
+	            ],
+	            "remark": "7.5",
+	            "showName": "美容针",
+	            "showNameEn": "Special Encounter",
+	            "type": "剧情 爱情",
+	            "wantCount": "9644"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "王宁",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "212538",
+	            "isWant": "false",
+	            "leadingRole": "胡杏儿,徐冬冬,艾伦,王自健",
+	            "openDay": "2017-03-10 00:00:00",
+	            "openTime": "2017-03-10",
+	            "orderCount": "0",
+	            "poster": "i1/TB1BdQJPXXXXXbXaXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                
+	            ],
+	            "showName": "玛格丽特的春天",
+	            "showNameEn": "Little Lucky",
+	            "type": "喜剧",
+	            "wantCount": "1093"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "邱晓军",
+	            "duration": "0",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "210698",
+	            "isWant": "false",
+	            "leadingRole": "万梓良",
+	            "openDay": "2017-03-14 00:00:00",
+	            "openTime": "2017-03-14",
+	            "orderCount": "0",
+	            "poster": "i3/TB1g.DTOFXXXXazaXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                
+	            ],
+	            "remark": "7.0",
+	            "showName": "情迷意大利",
+	            "showNameEn": "Lost in Italy",
+	            "type": "剧情 喜剧 爱情",
+	            "wantCount": "929"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "胡雪桦",
+	            "duration": "120",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "212309",
+	            "isWant": "false",
+	            "leadingRole": "胡军,余男,凤小岳,秦昊,郭采洁",
+	            "openDay": "2017-03-16 00:00:00",
+	            "openTime": "2017-03-16",
+	            "orderCount": "0",
+	            "poster": "i1/TB1g6TSPXXXXXc7XVXXXXXXXXXX_.jpg",
+	            "preview": [
+	                
+	            ],
+	            "remark": "7.5",
+	            "showMark": "3D",
+	            "showName": "上海王2",
+	            "showNameEn": "Lord Of Shanghai Ⅱ",
+	            "type": "剧情",
+	            "wantCount": "6478"
+	        },
+	        {
+	            "country": "美国",
+	            "director": "比尔·康顿",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "经典旋律再现，艾玛沃森演贝尔",
+	            "id": "196509",
+	            "isWant": "false",
+	            "leadingRole": "艾玛·沃特森,丹·史蒂文斯",
+	            "openDay": "2017-03-17 00:00:00",
+	            "openTime": "2017-03-17",
+	            "orderCount": "0",
+	            "poster": "i4/TB1fwZ6PXXXXXa0XFXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50243795.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50243795.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50243795.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/50243795.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1J5cGPXXXXXXVapXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "50",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50243795.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50243795.mp4",
+	                    "title": "四大主演春节祝福",
+	                    "uploadTime": "2017-01-25 10:42:20",
+	                    "videoId": "50243795"
+	                }
+	            ],
+	            "remark": "9.2",
+	            "showName": "美女与野兽",
+	            "showNameEn": "Beauty and the Beast",
+	            "type": "爱情 歌舞 奇幻",
+	            "wantCount": "39216"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "何蔚庭",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "陈坤变主夫，与桂纶镁一夜奇遇",
+	            "id": "192973",
+	            "isWant": "false",
+	            "leadingRole": "桂纶镁,王景春,王元也,欧阳娜娜,陈坤",
+	            "openDay": "2017-03-17 00:00:00",
+	            "openTime": "2017-03-17",
+	            "orderCount": "0",
+	            "poster": "i3/TB18x4HJVXXXXXkXVXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/39642654.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/39642654.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/39642654.mp4",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1F.wxKpXXXXa1XpXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "165",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/39642654.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/39642654.mp4",
+	                    "title": "美好的意外 一家之主版预告片",
+	                    "uploadTime": "2016-06-04 01:20:45",
+	                    "videoId": "39642654"
+	                }
+	            ],
+	            "remark": "7.8",
+	            "showName": "美好的意外",
+	            "showNameEn": "Beautiful Accident",
+	            "type": "喜剧 奇幻 剧情",
+	            "wantCount": "11882"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "高育新",
+	            "duration": "90",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "211753",
+	            "isWant": "false",
+	            "leadingRole": "王佑硕,伊娜,许林,郭若寒,王佑硕",
+	            "openDay": "2017-03-17 00:00:00",
+	            "openTime": "2017-03-17",
+	            "orderCount": "0",
+	            "poster": "i2/TB1DUXNPXXXXXcCXXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                
+	            ],
+	            "remark": "5.4",
+	            "showName": "碟仙前传",
+	            "showNameEn": "Prequel of Orijia",
+	            "type": "恐怖 惊悚",
+	            "wantCount": "1866"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "摩撒利",
+	            "duration": "90",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "212335",
+	            "isWant": "false",
+	            "leadingRole": "张蓝艺,刘一辰,刘小奇,蔡翱骏",
+	            "openDay": "2017-03-17 00:00:00",
+	            "openTime": "2017-03-17",
+	            "orderCount": "0",
+	            "poster": "i4/TB1sBglPXXXXXXUXpXXXXXXXXXX_.jpg",
+	            "preview": [
+	                
+	            ],
+	            "showName": "通灵姐妹",
+	            "showNameEn": "Haunted Sisters",
+	            "type": "惊悚 恐怖",
+	            "wantCount": "1515"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "张帆",
+	            "duration": "90",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "最虐心爱情，鬼影重重阴魂不散",
+	            "id": "184604",
+	            "isWant": "false",
+	            "leadingRole": "许韶洋,苑琼丹,罗家英,卢衫,刘茹蕙",
+	            "openDay": "2017-03-24 00:00:00",
+	            "openTime": "2017-03-24",
+	            "orderCount": "0",
+	            "poster": "i3/TB1qCCHKFXXXXbFXFXXXXXXXXXX_.jpg",
+	            "preview": [
+	                
+	            ],
+	            "remark": "7.3",
+	            "showName": "诡宅",
+	            "showNameEn": "The Ghost House",
+	            "type": "惊悚 恐怖",
+	            "wantCount": "5761"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "张大磊",
+	            "duration": "106",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "下岗潮来袭，暑假也没了乐趣",
+	            "id": "199869",
+	            "isWant": "false",
+	            "openDay": "2017-03-24 00:00:00",
+	            "openTime": "2017-03-24",
+	            "orderCount": "0",
+	            "poster": "i2/TB1CsakOpXXXXXEXFXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50166365.mp4",
+	                        "sd": "",
+	                        "hd": "",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img02.taobaocdn.com/bao/uploaded/TB1a2MFPXXXXXXEXFXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "87",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50166365.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50166365.mp4",
+	                    "title": "预告片2",
+	                    "uploadTime": "2017-01-22 00:53:19",
+	                    "videoId": "50166365"
+	                }
+	            ],
+	            "remark": "8.4",
+	            "showName": "八月",
+	            "showNameEn": "The Summer is Gone",
+	            "type": "剧情",
+	            "wantCount": "2285"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "程中豪,王凯",
+	            "duration": "90",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "212522",
+	            "isWant": "false",
+	            "leadingRole": "李漫荻,齐炫宇,马丁,谢易真",
+	            "openDay": "2017-03-24 00:00:00",
+	            "openTime": "2017-03-24",
+	            "orderCount": "0",
+	            "poster": "i1/TB1fkQAPXXXXXbmaXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                
+	            ],
+	            "showName": "碟仙实录",
+	            "showNameEn": "Prequel Of Orijia",
+	            "type": "恐怖 惊悚",
+	            "wantCount": "712"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "郑真",
+	            "duration": "0",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "友达以上，恋人未满",
+	            "id": "199784",
+	            "isWant": "false",
+	            "leadingRole": "丁宇佳,赵圆圆,程媛媛",
+	            "openDay": "2017-03-31 00:00:00",
+	            "openTime": "2017-03",
+	            "orderCount": "0",
+	            "poster": "i4/TB1u1lKKFXXXXagXFXXXXXXXXXX_.jpg",
+	            "preview": [
+	                
+	            ],
+	            "remark": "7.4",
+	            "showName": "爱情邮局",
+	            "showNameEn": "The Post Office Of Love",
+	            "type": "爱情 喜剧",
+	            "wantCount": "1499"
+	        }
+	    ]
+	},
+	"ret": [
+	    "SUCCESS::调用成功"
+	],
+	"v": "5.0"
+}

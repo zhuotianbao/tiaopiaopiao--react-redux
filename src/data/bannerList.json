@@ -1,0 +1,95 @@
+{
+    "api": "mtop.film.MtopAdvertiseAPI.queryAdvertise",
+    "data": {
+        "returnCode": "0",
+        "returnValue": [
+            {
+                "actionTitle": "1",
+                "actionUrl": "https://market.m.taobao.com/markets/TaoBaoMovie/THQXD?s=tb&spm=dianying.tb.1.1&cityCode=310100",
+                "advertiseContainer": "INDEX_BANNER",
+                "advertiseType": "1",
+                "bigPicUrl": "tps/TB1RxD3PXXXXXcpaFXXXXXXXXXX-1280-520.jpg",
+                "extActions": [
+                    
+                ],
+                "gmtModified": "1485055487000",
+                "hasBannerTag": "false",
+                "id": "4624",
+                "priority": "15",
+                "smallPicUrl": "tps/TB1RxD3PXXXXXcpaFXXXXXXXXXX-1280-520.jpg",
+                "smallPicUrl2": "tps/TB1RxD3PXXXXXcpaFXXXXXXXXXX-1280-520.jpg",
+                "title": "三平台集合-大盘2.4-2.8"
+            },
+            {
+                "actionTitle": "1",
+                "actionUrl": "https://market.m.taobao.com/markets/TaoBaoMovie/duckweed?wh_ttid=phone&s=tb&spm=dianying.tb.1.1&cityCode=310100",
+                "advertiseContainer": "INDEX_BANNER",
+                "advertiseType": "1",
+                "bigPicUrl": "tps/TB1ByCmPpXXXXcFXFXXXXXXXXXX-1280-520.jpg",
+                "extActions": [
+                    
+                ],
+                "gmtModified": "1486346851000",
+                "hasBannerTag": "false",
+                "id": "4665",
+                "priority": "13",
+                "smallPicUrl": "tps/TB1ByCmPpXXXXcFXFXXXXXXXXXX-1280-520.jpg",
+                "smallPicUrl2": "tps/TB1ByCmPpXXXXcFXFXXXXXXXXXX-1280-520.jpg",
+                "title": "三平台集合-乘风破浪2.3-2.8"
+            },
+            {
+                "actionTitle": "1",
+                "actionUrl": "https://market.m.taobao.com/markets/TaoBaoMovie/kungfuyoga?s=tb&spm=dianying.tb.1.1&cityCode=310100",
+                "advertiseContainer": "INDEX_BANNER",
+                "advertiseType": "1",
+                "bigPicUrl": "tps/TB1TBVJPpXXXXaBapXXXXXXXXXX-1280-520.png",
+                "extActions": [
+                    
+                ],
+                "gmtModified": "1486350663000",
+                "hasBannerTag": "false",
+                "id": "4699",
+                "priority": "12",
+                "smallPicUrl": "tps/TB1TBVJPpXXXXaBapXXXXXXXXXX-1280-520.png",
+                "smallPicUrl2": "tps/TB1TBVJPpXXXXaBapXXXXXXXXXX-1280-520.png",
+                "title": "三平台集合-功夫瑜伽1.28-2.8"
+            },
+            {
+                "actionUrl": "https://h5.m.taobao.com/app/movie/pages/index/show-detail.html?showid=190898&s=tb&spm=dianying.tb.1.1&cityCode=310100",
+                "advertiseContainer": "INDEX_BANNER",
+                "advertiseType": "1",
+                "extActions": [
+                    
+                ],
+                "gmtModified": "1485328529000",
+                "hasBannerTag": "false",
+                "id": "4716",
+                "priority": "11",
+                "smallPicUrl": "tps/TB10bJePpXXXXcbXXXXXXXXXXXX-1280-520.jpg",
+                "smallPicUrl2": "tps/TB10bJePpXXXXcbXXXXXXXXXXXX-1280-520.jpg",
+                "title": "手淘-东北往事2.6-2.8"
+            },
+            {
+                "actionTitle": "1",
+                "actionUrl": "https://www.taobao.com/markets/TaoBaoMovie/jzss?s=tb&spm=dianying.tb.1.1&cityCode=310100",
+                "advertiseContainer": "INDEX_BANNER",
+                "advertiseType": "1",
+                "bigPicUrl": "tps/TB1PXt8PpXXXXcFXFXXXXXXXXXX-1280-520.jpg",
+                "extActions": [
+                    
+                ],
+                "gmtModified": "1486199865000",
+                "hasBannerTag": "false",
+                "id": "4779",
+                "priority": "10",
+                "smallPicUrl": "tps/TB1PXt8PpXXXXcFXFXXXXXXXXXX-1280-520.jpg",
+                "smallPicUrl2": "tps/TB1PXt8PpXXXXcFXFXXXXXXXXXX-1280-520.jpg",
+                "title": "三平台集合-食神2.6-2.8"
+            }
+        ]
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "5.0"
+}

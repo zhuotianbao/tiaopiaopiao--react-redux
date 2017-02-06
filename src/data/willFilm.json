@@ -1,0 +1,699 @@
+{
+    "api": "mtop.film.MtopShowAPI.getSoonShowsByCityCode",
+    "data": {
+        "count": "339",
+        "returnCode": "0",
+        "returnValue": [
+            {
+                "availableScheduleCount": "2960",
+                "availableTodayScheduleCount": "0",
+                "country": "美国",
+                "director": "D·J·卡卢索",
+                "duration": "107",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "175882",
+                "isWant": "false",
+                "leadingRole": "范·迪塞尔,塞缪尔·杰克逊,迪皮卡·帕度柯妮,吴亦凡,露比·罗丝,妮娜·杜波夫",
+                "openDay": "2017-02-10 00:00:00",
+                "openTime": "2017-02-10",
+                "orderCount": "0",
+                "poster": "i3/TB1pP79OVXXXXXPXVXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/46775671.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/46775671.mp4",
+                            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/46775671.mp4",
+                            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/46775671.mp4"
+                        },
+                        "coverUrl": "http://img1.tbcdn.cn/tfscom/TB14IujPpXXXXX4XXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "139",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/46775671.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/46775671.mp4",
+                        "title": "终极预告",
+                        "uploadTime": "2016-11-02 14:26:02",
+                        "videoId": "46775671"
+                    }
+                ],
+                "remark": "8.8",
+                "showMark": "IMAX3D",
+                "showName": "极限特工：终极回归",
+                "showNameEn": "xXx: The Return of Xander Cage",
+                "type": "动作 冒险",
+                "wantCount": "147548"
+            },
+            {
+                "availableScheduleCount": "876",
+                "availableTodayScheduleCount": "0",
+                "country": "中国 中国香港",
+                "director": "叶伟民",
+                "duration": "98",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "中西大比拼，充满色香味",
+                "id": "194443",
+                "isWant": "false",
+                "leadingRole": "葛优,谢霆锋,唐嫣,郑容和,杜海涛",
+                "openDay": "2017-02-10 00:00:00",
+                "openTime": "2017-02-10",
+                "orderCount": "0",
+                "poster": "i4/TB13HZHPXXXXXXjXVXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50099818.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50099818.mp4",
+                            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50099818.mp4",
+                            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/50099818.mp4"
+                        },
+                        "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1fpo1PXXXXXaoaXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "131",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50099818.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50099818.mp4",
+                        "title": "终极预告",
+                        "uploadTime": "2017-01-19 18:19:19",
+                        "videoId": "50099818"
+                    }
+                ],
+                "remark": "9.2",
+                "showMark": "3D",
+                "showName": "决战食神",
+                "showNameEn": "Cook up A Storm",
+                "type": "喜剧 美食 合家欢",
+                "wantCount": "62503"
+            },
+            {
+                "availableScheduleCount": "113",
+                "availableTodayScheduleCount": "0",
+                "country": "中国",
+                "director": "高希希",
+                "duration": "126",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "直面腥风血雨，颠覆民国传奇",
+                "id": "194267",
+                "isWant": "false",
+                "leadingRole": "何润东,黄子韬,古力娜扎,王学圻,秋瓷炫,高捷",
+                "openDay": "2017-02-10 00:00:00",
+                "openTime": "2017-02-10",
+                "orderCount": "0",
+                "poster": "i2/TB1FdwJNVXXXXbvXVXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/47607509.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/47607509.mp4",
+                            "hd": "",
+                            "ud": ""
+                        },
+                        "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1nTl4PpXXXXXMXVXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "119",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/47607509.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/47607509.mp4",
+                        "title": "“燃情”版预告片",
+                        "uploadTime": "2016-11-27 00:51:53",
+                        "videoId": "47607509"
+                    }
+                ],
+                "remark": "8.0",
+                "showName": "遊戏规则",
+                "showNameEn": "The Game Changer",
+                "type": "动作 剧情",
+                "wantCount": "14218"
+            },
+            {
+                "availableScheduleCount": "29",
+                "availableTodayScheduleCount": "0",
+                "country": "中国 美国",
+                "director": "伊桑·韦利",
+                "duration": "91",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "131353",
+                "isWant": "false",
+                "leadingRole": "萨沙·杰克逊,苏嘉航,乔纳森·考斯瑞德,道格拉斯·泰特",
+                "openDay": "2017-02-10 00:00:00",
+                "openTime": "2017-02-10",
+                "orderCount": "0",
+                "poster": "i1/TB1V3UZPXXXXXXQXpXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50278775.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50278775.mp4",
+                            "hd": "",
+                            "ud": ""
+                        },
+                        "coverUrl": "http://img1.tbcdn.cn/tfscom/TB166lSPpXXXXcRaXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "31",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50278775.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50278775.mp4",
+                        "title": "终极版预告片",
+                        "uploadTime": "2017-01-27 00:53:12",
+                        "videoId": "50278775"
+                    }
+                ],
+                "remark": "4.7",
+                "showMark": "3D",
+                "showName": "大脚印",
+                "showNameEn": "Da Jiao Yin",
+                "type": "冒险 悬疑 灾难",
+                "wantCount": "2873"
+            },
+            {
+                "availableScheduleCount": "674",
+                "availableTodayScheduleCount": "0",
+                "country": "美国",
+                "director": "达米恩·查泽雷",
+                "duration": "129",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "159609",
+                "isWant": "false",
+                "leadingRole": "瑞恩·高斯林,艾玛·斯通,约翰·传奇,J·K·西蒙斯",
+                "openDay": "2017-02-14 00:00:00",
+                "openTime": "2017-02-14",
+                "orderCount": "0",
+                "poster": "i2/TB1xdu4PXXXXXbyXFXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50139888.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50139888.mp4",
+                            "hd": "",
+                            "ud": ""
+                        },
+                        "coverUrl": "http://img1.tbcdn.cn/tfscom/TB15oMfPXXXXXbgXFXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "81",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50139888.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50139888.mp4",
+                        "title": "定档预告",
+                        "uploadTime": "2017-01-21 00:52:32",
+                        "videoId": "50139888"
+                    }
+                ],
+                "remark": "9.0",
+                "showMark": "IMAX",
+                "showName": "爱乐之城",
+                "showNameEn": "La La Land",
+                "type": "爱情 歌舞",
+                "wantCount": "47725"
+            },
+            {
+                "availableScheduleCount": "74",
+                "availableTodayScheduleCount": "0",
+                "country": "中国",
+                "director": "刘国楠",
+                "duration": "120",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "209866",
+                "isWant": "false",
+                "leadingRole": "郑秀文,张孝全,徐黄丽,林雪,冯文娟,弦子",
+                "openDay": "2017-02-14 00:00:00",
+                "openTime": "2017-02-14",
+                "orderCount": "0",
+                "poster": "i4/TB1cGbrOFXXXXaYXXXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49721457.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49721457.mp4",
+                            "hd": "",
+                            "ud": ""
+                        },
+                        "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1NDx6PpXXXXaQXVXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "49",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49721457.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49721457.mp4",
+                        "title": "“郑宗孝料”版预告片",
+                        "uploadTime": "2017-01-11 00:51:59",
+                        "videoId": "49721457"
+                    }
+                ],
+                "remark": "8.0",
+                "showName": "合约男女",
+                "showNameEn": "Love contractually",
+                "type": "喜剧 爱情",
+                "wantCount": "21649"
+            },
+            {
+                "country": "中国",
+                "director": "刘镇伟",
+                "duration": "0",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "爆笑天团组队，一脚定江山",
+                "id": "210761",
+                "isWant": "false",
+                "leadingRole": "何炅,钟欣潼,蔡卓妍,邓丽欣,杜海涛",
+                "openDay": "2017-02-14 00:00:00",
+                "openTime": "2017-02-14",
+                "orderCount": "0",
+                "poster": "i1/TB11EjiOVXXXXcEXFXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49534416.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49534416.mp4",
+                            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49534416.mp4",
+                            "ud": ""
+                        },
+                        "coverUrl": "http://img02.taobaocdn.com/bao/uploaded/TB1Yw81PXXXXXXjXXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "72",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49534416.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49534416.mp4",
+                        "title": "仙球大战 喜剧版预告",
+                        "uploadTime": "2017-01-07 00:51:13",
+                        "videoId": "49534416"
+                    }
+                ],
+                "remark": "4.3",
+                "showMark": "3D",
+                "showName": "仙球大战",
+                "showNameEn": "Soccer killer",
+                "type": "喜剧 古装",
+                "wantCount": "12979"
+            },
+            {
+                "country": "中国",
+                "director": "钟少雄",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "小岳岳开撩，一贱倾心",
+                "id": "212314",
+                "isWant": "false",
+                "leadingRole": "岳云鹏,袁姗姗,孙坚,马元,石小满,郭德纲,艾伦,潘斌龙,杨能",
+                "openDay": "2017-02-14 00:00:00",
+                "openTime": "2017-02-14",
+                "orderCount": "0",
+                "poster": "i3/TB1simiPpXXXXaGXVXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50043563.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50043563.mp4",
+                            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50043563.mp4",
+                            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/50043563.mp4"
+                        },
+                        "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1E_7pPXXXXXXdXXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "41",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50043563.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50043563.mp4",
+                        "title": "“正经开撩”版预告片",
+                        "uploadTime": "2017-01-18 10:39:13",
+                        "videoId": "50043563"
+                    }
+                ],
+                "remark": "6.8",
+                "showName": "疯岳撬佳人",
+                "showNameEn": "Revengre for Love",
+                "type": "喜剧",
+                "wantCount": "7777"
+            },
+            {
+                "country": "中国",
+                "director": "贺丰",
+                "duration": "86",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "韩式纯爱，虐恋升级",
+                "id": "212211",
+                "isWant": "false",
+                "leadingRole": "李英勋,潘思羽,雷鹏宇,张京生",
+                "openDay": "2017-02-14 00:00:00",
+                "openTime": "2017-02-14",
+                "orderCount": "0",
+                "poster": "i3/TB1ZvfzPXXXXXauaXXXXXXXXXXX_.jpg",
+                "preview": [
+                    
+                ],
+                "remark": "5.7",
+                "showName": "欧爸的情人",
+                "showNameEn": "Superposition of Love",
+                "type": "剧情 爱情",
+                "wantCount": "1549"
+            },
+            {
+                "country": "美国",
+                "director": "加斯·詹宁斯",
+                "duration": "110",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "206438",
+                "isWant": "false",
+                "leadingRole": "马修·麦康纳,瑞茜·威瑟斯彭,塞思·麦克法兰,斯嘉丽·约翰逊,约翰·C·赖利,塔伦·埃格顿,托瑞·凯利",
+                "openDay": "2017-02-17 00:00:00",
+                "openTime": "2017-02-17",
+                "orderCount": "0",
+                "poster": "i2/TB1Gs9sPXXXXXaRXXXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49637660.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49637660.mp4",
+                            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49637660.mp4",
+                            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/49637660.mp4"
+                        },
+                        "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1eLyjPXXXXXbzXpXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "60",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49637660.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49637660.mp4",
+                        "title": "定档预告",
+                        "uploadTime": "2017-01-09 11:47:06",
+                        "videoId": "49637660"
+                    }
+                ],
+                "remark": "8.7",
+                "showName": "欢乐好声音",
+                "showNameEn": "Sing",
+                "type": "动画 喜剧 家庭",
+                "wantCount": "21303"
+            },
+            {
+                "availableScheduleCount": "13",
+                "availableTodayScheduleCount": "0",
+                "country": "中国",
+                "director": "梁栋",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "一次穿越，两全其美",
+                "id": "193384",
+                "isWant": "false",
+                "leadingRole": "姜武,蒋勤勤,朱旭,李乃文,傅颖",
+                "openDay": "2017-02-17 00:00:00",
+                "openTime": "2017-02-17",
+                "orderCount": "0",
+                "poster": "i4/TB18ghYPpXXXXajapXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49378097.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49378097.mp4",
+                            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49378097.mp4",
+                            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/49378097.mp4"
+                        },
+                        "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1IsMpOVXXXXcNapXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "77",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49378097.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49378097.mp4",
+                        "title": "趣味人生预告",
+                        "uploadTime": "2017-01-03 18:11:55",
+                        "videoId": "49378097"
+                    }
+                ],
+                "remark": "7.7",
+                "showName": "完美有多美",
+                "showNameEn": "The Door",
+                "type": "剧情 奇幻 喜剧",
+                "wantCount": "7519"
+            },
+            {
+                "country": "日本",
+                "director": "Takeshi Nozue",
+                "duration": "110",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "211641",
+                "isWant": "false",
+                "leadingRole": "琳娜·海蒂,肖恩·宾,亚伦·保尔",
+                "openDay": "2017-02-17 00:00:00",
+                "openTime": "2017-02-17",
+                "orderCount": "0",
+                "poster": "i3/TB1S8.NOVXXXXXVaXXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49487697.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49487697.mp4",
+                            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49487697.mp4",
+                            "ud": ""
+                        },
+                        "coverUrl": "http://img01.taobaocdn.com/bao/uploaded/TB1sk0FPXXXXXclXXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "104",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49487697.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49487697.mp4",
+                        "title": "首款预告片",
+                        "uploadTime": "2017-01-06 00:52:20",
+                        "videoId": "49487697"
+                    }
+                ],
+                "remark": "8.9",
+                "showName": "最终幻想15：王者之剑",
+                "showNameEn": "Kingsglaive: Final Fantasy XV",
+                "type": "动画 冒险 剧情",
+                "wantCount": "4863"
+            },
+            {
+                "country": "中国",
+                "director": "朱林森",
+                "duration": "88",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "212210",
+                "isWant": "false",
+                "leadingRole": "朱佳希,文卓",
+                "openDay": "2017-02-17 00:00:00",
+                "openTime": "2017-02-17",
+                "orderCount": "0",
+                "poster": "i3/TB1L9bNPXXXXXcQXpXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49909113.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49909113.mp4",
+                            "hd": "",
+                            "ud": ""
+                        },
+                        "coverUrl": "http://img04.taobaocdn.com/bao/uploaded/TB1aHzIPXXXXXXfXpXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "37",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49909113.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49909113.mp4",
+                        "title": "先导预告片",
+                        "uploadTime": "2017-01-15 00:52:32",
+                        "videoId": "49909113"
+                    }
+                ],
+                "remark": "5.5",
+                "showName": "血伞凶灵",
+                "type": "惊悚 悬疑",
+                "wantCount": "3571"
+            },
+            {
+                "country": "中国",
+                "director": "程中豪, 王凯",
+                "duration": "100",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "212803",
+                "isWant": "false",
+                "leadingRole": "罗仲谦,林思意,修睿,百克力",
+                "openDay": "2017-02-17 00:00:00",
+                "openTime": "2017-02-17",
+                "orderCount": "0",
+                "poster": "i2/TB1xp5HPpXXXXbeXXXXXXXXXXXX_.jpg",
+                "preview": [
+                    
+                ],
+                "showName": "食神归来",
+                "type": "青春 喜剧",
+                "wantCount": "31"
+            },
+            {
+                "country": "中国",
+                "director": "纪磊",
+                "duration": "105",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "212501",
+                "isWant": "false",
+                "leadingRole": "申泰明,李华,纪凯童",
+                "openDay": "2017-02-18 00:00:00",
+                "openTime": "2017-02-18",
+                "orderCount": "0",
+                "poster": "i2/TB1.67xPXXXXXX9aXXXXXXXXXXX_.jpg",
+                "preview": [
+                    
+                ],
+                "showName": "斗魂之熊孩子",
+                "type": "剧情 动作 家庭",
+                "wantCount": "816"
+            },
+            {
+                "country": "中国",
+                "director": "夏嘉伟",
+                "duration": "91",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "212098",
+                "isWant": "false",
+                "leadingRole": "夏嘉伟,夏嘉伟",
+                "openDay": "2017-02-18 00:00:00",
+                "openTime": "2017-02-18",
+                "orderCount": "0",
+                "poster": "i2/TB1bRGRPXXXXXbPaXXXXXXXXXXX_.jpg",
+                "preview": [
+                    
+                ],
+                "remark": "7.1",
+                "showName": "来自月亮的我",
+                "showNameEn": "I Am from the Moon",
+                "type": "爱情 奇幻 喜剧",
+                "wantCount": "639"
+            },
+            {
+                "country": "美国 英国 法国",
+                "director": "贾斯汀·库泽尔",
+                "duration": "140",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "177436",
+                "isWant": "false",
+                "leadingRole": "迈克尔·法斯宾德,玛丽昂·歌迪亚,杰瑞米·艾恩斯,布莱丹·格里森,亚里安妮·拉贝德,迈克尔·威廉姆斯",
+                "openDay": "2017-02-24 00:00:00",
+                "openTime": "2017-02-24",
+                "orderCount": "0",
+                "poster": "i4/TB1mIZNOXXXXXaOaFXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/47096977.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/47096977.mp4",
+                            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/47096977.mp4",
+                            "ud": ""
+                        },
+                        "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1xmcVOXXXXXavaXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "137",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/47096977.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/47096977.mp4",
+                        "title": "预告片",
+                        "uploadTime": "2016-11-16 17:10:36",
+                        "videoId": "47096977"
+                    }
+                ],
+                "remark": "9.1",
+                "showName": "刺客信条",
+                "showNameEn": "Assassin's Creed",
+                "type": "动作 冒险 科幻",
+                "wantCount": "127383"
+            },
+            {
+                "country": "中国 中国香港",
+                "director": "雷宇扬",
+                "duration": "86",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "笔仙碟仙，下次筷子仙",
+                "id": "189055",
+                "isWant": "false",
+                "leadingRole": "张韶涵,方力申,惠英红,孙艺铭",
+                "openDay": "2017-02-24 00:00:00",
+                "openTime": "2017-02-24",
+                "orderCount": "0",
+                "poster": "i3/TB1nIiPOVXXXXazXXXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49957137.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49957137.mp4",
+                            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49957137.mp4",
+                            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/49957137.mp4"
+                        },
+                        "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1N6rdPXXXXXX3aFXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "96",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49957137.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49957137.mp4",
+                        "title": "先导预告片",
+                        "uploadTime": "2017-01-16 10:56:38",
+                        "videoId": "49957137"
+                    }
+                ],
+                "remark": "7.0",
+                "showMark": "3D",
+                "showName": "碟仙诡谭2",
+                "showNameEn": "My Sterious Plate 2",
+                "type": "悬疑 惊悚",
+                "wantCount": "19379"
+            },
+            {
+                "country": "中国",
+                "director": "胡雪桦",
+                "duration": "111",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "十里洋场，上海悲歌",
+                "id": "154163",
+                "isWant": "false",
+                "leadingRole": "胡军,余男,凤小岳,郭采洁,秦昊,李梦,刘佩琦,曹可凡",
+                "openDay": "2017-02-24 00:00:00",
+                "openTime": "2017-02-24",
+                "orderCount": "0",
+                "poster": "i1/TB1aPMzOpXXXXXDXVXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/48603994.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/48603994.mp4",
+                            "hd": "",
+                            "ud": ""
+                        },
+                        "coverUrl": "http://img01.taobaocdn.com/bao/uploaded/TB1L27TOFXXXXXuaXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "99",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/48603994.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/48603994.mp4",
+                        "title": "“缘起”版预报片",
+                        "uploadTime": "2016-12-17 00:51:43",
+                        "videoId": "48603994"
+                    }
+                ],
+                "remark": "7.6",
+                "showName": "上海王",
+                "showNameEn": "Lord of Shanghai",
+                "type": "剧情 动作 黑帮 爱情",
+                "wantCount": "9569"
+            },
+            {
+                "country": "中国",
+                "director": "袁杰",
+                "duration": "96",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "小人物跨千年，七种人生味",
+                "id": "208579",
+                "isWant": "false",
+                "leadingRole": "王宁,葛天,来喜,黄一飞,连晋",
+                "openDay": "2017-02-24 00:00:00",
+                "openTime": "2017-02-24",
+                "orderCount": "0",
+                "poster": "i1/TB1qcPtOVXXXXbxXVXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "androidPhoneV23Url": {
+                            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49120366.mp4",
+                            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49120366.mp4",
+                            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49120366.mp4",
+                            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/49120366.mp4"
+                        },
+                        "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1Cs_ROVXXXXcHXXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+                        "duration": "67",
+                        "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49120366.mp4",
+                        "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49120366.mp4",
+                        "title": "终极预告",
+                        "uploadTime": "2016-12-28 17:16:55",
+                        "videoId": "49120366"
+                    }
+                ],
+                "remark": "9.5",
+                "showName": "咸鱼传奇",
+                "showNameEn": "Myth Kill Joke",
+                "type": "喜剧",
+                "wantCount": "4522"
+            }
+        ]
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "5.0"
+}

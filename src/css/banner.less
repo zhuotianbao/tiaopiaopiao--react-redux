@@ -1,0 +1,50 @@
+*{
+	margin:0;
+	padding: 0;
+}
+ul,li{
+	list-style: none;
+}
+.banner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+.banner .bannerInner {
+    overflow: hidden;
+    position: relative;
+    left: 0;
+    top:0;
+    width: 100%; /*在JS数据绑定结束后根据请求回来数据的多少在动态调整我们的宽度*/
+}
+.banner .bannerInner a {
+	display: block;
+    float: left;
+    width: 100%;
+    background-color: #ccc;
+}
+.banner .bannerInner a img{
+	width: 100%;
+    display: block;
+    border: none;
+}
+.banner .bannerTip {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 13px;
+    height: 8px;
+    text-align: center;
+}
+.banner .bannerTip li {
+    display: inline-block;
+    margin-left: 10px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #e5e8e8;
+    cursor: pointer;
+}
+.banner .bannerTip li.bg {
+    background-color: #ff5733;
+}

@@ -1,0 +1,1909 @@
+{
+	"api": "mtop.film.MtopShowAPI.getShowsByCityCode",
+	"data": {
+	    "returnCode": "0",
+	    "returnValue": [
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": "15.8元起抢票"
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "1220",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20170110141232",
+	                    "activityTag": "15.8元起抢票",
+	                    "activityTitle": "《西游伏妖篇》特惠抢票，名额有限抢完即止",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "1220",
+	                    "description": "《西游伏妖篇》特惠抢票，名额有限抢完即止",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "15555",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "1",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月13日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“新春特惠”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户指定影片限享受1次“新春特惠”活动，一次最多2张特惠影票，同一笔订单中超过2张的部分可享受“阳光普照”活动，先到先得。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "15555",
+	                    "promotionPrice": "980",
+	                    "seatLimit": "2",
+	                    "showId": "178341",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国",
+	            "director": "徐克",
+	            "duration": "108",
+	            "fantastic": "1",
+	            "fromSearch": "false",
+	            "highlight": "星爷徐克联手，调教西游鲜徒",
+	            "id": "178341",
+	            "leadingRole": "吴亦凡,林更新,姚晨,林允,巴特尔",
+	            "openDay": "2017-01-28 00:00:00",
+	            "openTime": "2017-01-28",
+	            "orderCount": "0",
+	            "poster": "i2/TB1MxqgPXXXXXcqaXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50239117.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50239117.mp4",
+	                        "hd": "",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1t7MUPXXXXXchXVXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "134",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50239117.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50239117.mp4",
+	                    "title": "IMAX版终极预告片",
+	                    "uploadTime": "2017-01-25 00:53:00",
+	                    "videoId": "50239117"
+	                }
+	            ],
+	            "remark": "7.8",
+	            "showMark": "IMAX3D",
+	            "showName": "西游伏妖篇",
+	            "showNameEn": "Journey to the West: The Demons Strike Back",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "喜剧 动作 奇幻",
+	            "wantCount": "319160"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": "15.8元起抢票"
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "820",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20170113171359",
+	                    "activityTag": "15.8元起抢票",
+	                    "activityTitle": "《功夫瑜伽》特惠抢票，名额有限抢完即止",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "820",
+	                    "description": "《功夫瑜伽》特惠抢票，名额有限抢完即止",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "15567",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "1",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月13日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“新春特惠”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户指定影片限享受1次“新春特惠”活动，一次最多2张特惠影票，同一笔订单中超过2张的部分可享受“阳光普照”活动，先到先得。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "15567",
+	                    "promotionPrice": "2480",
+	                    "seatLimit": "2",
+	                    "showId": "190177",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国 印度",
+	            "director": "唐季礼",
+	            "duration": "108",
+	            "fantastic": "18",
+	            "fromSearch": "false",
+	            "highlight": "成龙续演神话，再赴印度寻宝",
+	            "id": "190177",
+	            "leadingRole": "成龙,李治廷,张艺兴,索努·苏德,母其弥雅",
+	            "openDay": "2017-01-28 00:00:00",
+	            "openTime": "2017-01-28",
+	            "orderCount": "0",
+	            "poster": "i3/TB1m0g.PXXXXXb8XVXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50292259.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50292259.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50292259.mp4",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1DFBtPpXXXXc9XpXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "152",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50292259.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50292259.mp4",
+	                    "title": "终极预告片",
+	                    "uploadTime": "2017-01-28 10:03:47",
+	                    "videoId": "50292259"
+	                }
+	            ],
+	            "remark": "8.6",
+	            "showMark": "3D",
+	            "showName": "功夫瑜伽",
+	            "showNameEn": "Kung Fu Yoga",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "喜剧 动作 冒险",
+	            "wantCount": "218194"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": "8.8元起抢票"
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "720",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20170113171742",
+	                    "activityTag": "8.8元起抢票",
+	                    "activityTitle": "《乘风破浪》特惠抢票，限购2张",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "720",
+	                    "description": "《乘风破浪》特惠抢票，限购2张",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "15360",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "1",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月13日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“新春特惠”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户指定影片限享受1次“新春特惠”活动，一次最多2张特惠影票，同一笔订单中超过2张的部分可享受“阳光普照”活动，先到先得。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "15360",
+	                    "promotionPrice": "1480",
+	                    "seatLimit": "2",
+	                    "showId": "207186",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国",
+	            "director": "韩寒",
+	            "duration": "102",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "韩寒再执导筒，小镇青年奇遇",
+	            "id": "207186",
+	            "leadingRole": "邓超,彭于晏,赵丽颖,董子健,李荣浩",
+	            "openDay": "2017-01-28 00:00:00",
+	            "openTime": "2017-01-28",
+	            "orderCount": "0",
+	            "poster": "i2/TB1ZB2rOVXXXXbjXFXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49962709.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49962709.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49962709.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/49962709.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1Eb_HPXXXXXXJXVXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "122",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49962709.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49962709.mp4",
+	                    "title": "终极预告",
+	                    "uploadTime": "2017-01-16 12:59:11",
+	                    "videoId": "49962709"
+	                }
+	            ],
+	            "remark": "8.8",
+	            "showName": "乘风破浪",
+	            "showNameEn": "Duckweed",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "喜剧 冒险",
+	            "wantCount": "128402"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SEAT": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": "18.8元起抢票"
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "620",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20170120180300",
+	                    "activityTag": "18.8元起抢票",
+	                    "activityTitle": "《熊出没》特惠抢票，名额有限抢完即止",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "620",
+	                    "description": "《熊出没》特惠抢票，名额有限抢完即止",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "15326",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "1",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月13日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“新春特惠”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户指定影片限享受1次“新春特惠”活动，一次最多2张特惠影票，同一笔订单中超过2张的部分可享受“阳光普照”活动，先到先得。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "15326",
+	                    "promotionPrice": "2680",
+	                    "seatLimit": "2",
+	                    "showId": "208355",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国",
+	            "director": "丁亮,林永长,林汇达",
+	            "duration": "91",
+	            "fantastic": "4",
+	            "fromSearch": "false",
+	            "highlight": "大年初一，熊鸡贺岁",
+	            "id": "208355",
+	            "leadingRole": "尚雯婕,鲍春来,曾舜晞,孙建弘",
+	            "openDay": "2017-01-28 00:00:00",
+	            "openTime": "2017-01-28",
+	            "orderCount": "0",
+	            "poster": "i3/TB1fhHMPXXXXXbtaXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50042924.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50042924.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50042924.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/50042924.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB121vZPXXXXXX9aXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "165",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50042924.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50042924.mp4",
+	                    "title": "奇幻世界版终极预告",
+	                    "uploadTime": "2017-01-18 10:24:11",
+	                    "videoId": "50042924"
+	                }
+	            ],
+	            "remark": "9.2",
+	            "showMark": "3D",
+	            "showName": "熊出没·奇幻空间",
+	            "showNameEn": "Boonie Bears：Entangled  Worlds",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "喜剧 动画 冒险",
+	            "wantCount": "82720"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": ""
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "20",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20170122175526",
+	                    "activityTag": "阳光普照",
+	                    "activityTitle": "春节优惠购票，名额有限抢完即止",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "20",
+	                    "description": "春节优惠购票，名额有限抢完即止",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "15387",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "999",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月14日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“阳光普照”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户每天可享受1次“阳光普照”活动，一次最多3张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "15387",
+	                    "promotionPrice": "2180",
+	                    "seatLimit": "3",
+	                    "showId": "165022",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国",
+	            "director": "王宝强",
+	            "duration": "100",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "王宝强导演处女作，印度大冒险",
+	            "id": "165022",
+	            "leadingRole": "王宝强,白客,岳云鹏,柳岩",
+	            "openDay": "2017-01-28 00:00:00",
+	            "openTime": "2017-01-28",
+	            "orderCount": "0",
+	            "poster": "i1/TB1T_1dPXXXXXcRXpXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50070393.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50070393.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50070393.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/50070393.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1argsPXXXXXayXpXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "159",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50070393.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50070393.mp4",
+	                    "title": "《大闹天竺》终极预告",
+	                    "uploadTime": "2017-01-18 21:22:31",
+	                    "videoId": "50070393"
+	                }
+	            ],
+	            "remark": "7.7",
+	            "showName": "大闹天竺",
+	            "showNameEn": "Buddies in India",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "喜剧 动作 冒险",
+	            "wantCount": "305185"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": "8.8元起抢票"
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "820",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20170123173108",
+	                    "activityTag": "8.8元起抢票",
+	                    "activityTitle": "《东北往事》特惠，名额有限抢完即止",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "820",
+	                    "description": "《东北往事》特惠，名额有限抢完即止",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "15416",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "1",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月13日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“新春特惠”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户指定影片限享受1次“新春特惠”活动，一次最多2张特惠影票，同一笔订单中超过2张的部分可享受“阳光普照”活动，先到先得。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "15416",
+	                    "promotionPrice": "2280",
+	                    "seatLimit": "2",
+	                    "showId": "190898",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国",
+	            "director": "郭大雷",
+	            "duration": "99",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "东北仔怼古惑仔，笑出马甲线",
+	            "id": "190898",
+	            "leadingRole": "贾乃亮,马丽,梁超,王迅",
+	            "openDay": "2017-02-03 00:00:00",
+	            "openTime": "2017-02-03",
+	            "orderCount": "0",
+	            "poster": "i2/TB1dxLfPXXXXXbNaFXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50404674.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50404674.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50404674.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/50404674.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1EltOPpXXXXcsXVXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "83",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50404674.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50404674.mp4",
+	                    "title": "终极预告",
+	                    "uploadTime": "2017-02-03 16:13:02",
+	                    "videoId": "50404674"
+	                }
+	            ],
+	            "remark": "7.4",
+	            "showName": "东北往事之破马张飞",
+	            "showNameEn": "Once upon A Time in the Northeast",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "喜剧 动作",
+	            "wantCount": "47175"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": "8.8元起抢票"
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "1520",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20170204163821",
+	                    "activityTag": "8.8元起抢票",
+	                    "activityTitle": "《决战食神》特惠抢票，名额有限抢完即止",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "1520",
+	                    "description": "《决战食神》特惠抢票，名额有限抢完即止",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "15570",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "1",
+	                    "longDescription": "1、活动时间：2017年2月5日-2月14日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“新春特惠”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户指定影片限享受1次“新春特惠”活动，一次最多2张特惠影票，同一笔订单中超过2张的部分可享受“阳光普照”活动，先到先得。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "15570",
+	                    "promotionPrice": "1280",
+	                    "seatLimit": "2",
+	                    "showId": "194443",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国 中国香港",
+	            "director": "叶伟民",
+	            "duration": "98",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "中西大比拼，充满色香味",
+	            "id": "194443",
+	            "leadingRole": "葛优,谢霆锋,唐嫣,郑容和,杜海涛",
+	            "openDay": "2017-02-10 00:00:00",
+	            "openTime": "2017-02-10",
+	            "orderCount": "0",
+	            "poster": "i4/TB13HZHPXXXXXXjXVXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50099818.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50099818.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50099818.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/50099818.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1fpo1PXXXXXaoaXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "131",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50099818.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50099818.mp4",
+	                    "title": "终极预告",
+	                    "uploadTime": "2017-01-19 18:19:19",
+	                    "videoId": "50099818"
+	                }
+	            ],
+	            "remark": "9.2",
+	            "showMark": "3D",
+	            "showName": "决战食神",
+	            "showNameEn": "Cook up A Storm",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "喜剧 美食 合家欢",
+	            "wantCount": "62496"
+	        },
+	        {
+	            "country": "美国",
+	            "director": "D·J·卡卢索",
+	            "duration": "107",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "175882",
+	            "leadingRole": "范·迪塞尔,塞缪尔·杰克逊,迪皮卡·帕度柯妮,吴亦凡,露比·罗丝,妮娜·杜波夫",
+	            "openDay": "2017-02-10 00:00:00",
+	            "openTime": "2017-02-10",
+	            "orderCount": "0",
+	            "poster": "i3/TB1pP79OVXXXXXPXVXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/46775671.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/46775671.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/46775671.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/46775671.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB14IujPpXXXXX4XXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "139",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/46775671.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/46775671.mp4",
+	                    "title": "终极预告",
+	                    "uploadTime": "2016-11-02 14:26:02",
+	                    "videoId": "46775671"
+	                }
+	            ],
+	            "remark": "8.8",
+	            "showMark": "IMAX3D",
+	            "showName": "极限特工：终极回归",
+	            "showNameEn": "xXx: The Return of Xander Cage",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "动作 冒险",
+	            "wantCount": "147526"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": ""
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "20",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20170122175526",
+	                    "activityTag": "阳光普照",
+	                    "activityTitle": "春节优惠购票，名额有限抢完即止",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "20",
+	                    "description": "春节优惠购票，名额有限抢完即止",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "15387",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "999",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月14日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“阳光普照”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户每天可享受1次“阳光普照”活动，一次最多3张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "15387",
+	                    "promotionPrice": "2280",
+	                    "seatLimit": "3",
+	                    "showId": "199888",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "法国 加拿大",
+	            "director": "埃里克·韦林, 埃里克·萨默",
+	            "duration": "90",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "逃离孤儿院，励志跳芭蕾",
+	            "id": "199888",
+	            "leadingRole": "艾丽·范宁,卡莉·蕾·吉普森,戴恩·德哈恩,麦蒂·齐格勒",
+	            "openDay": "2017-02-01 00:00:00",
+	            "openTime": "2017-02-01",
+	            "orderCount": "0",
+	            "poster": "i3/TB1e0UpPXXXXXXlaFXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50197289.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50197289.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50197289.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/50197289.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1IKQ7PXXXXXbFXXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "107",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50197289.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50197289.mp4",
+	                    "title": "终极预告",
+	                    "uploadTime": "2017-01-23 11:04:15",
+	                    "videoId": "50197289"
+	                }
+	            ],
+	            "remark": "9.1",
+	            "showMark": "3D",
+	            "showName": "了不起的菲丽西",
+	            "showNameEn": "Ballerina",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "动画 冒险 喜剧",
+	            "wantCount": "20840"
+	        },
+	        {
+	            "country": "美国",
+	            "director": "达米恩·查泽雷",
+	            "duration": "129",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "159609",
+	            "leadingRole": "瑞恩·高斯林,艾玛·斯通,约翰·传奇,J·K·西蒙斯",
+	            "openDay": "2017-02-14 00:00:00",
+	            "openTime": "2017-02-14",
+	            "orderCount": "0",
+	            "poster": "i2/TB1xdu4PXXXXXbyXFXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50139888.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50139888.mp4",
+	                        "hd": "",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB15oMfPXXXXXbgXFXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "81",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50139888.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50139888.mp4",
+	                    "title": "定档预告",
+	                    "uploadTime": "2017-01-21 00:52:32",
+	                    "videoId": "50139888"
+	                }
+	            ],
+	            "remark": "9.0",
+	            "showMark": "IMAX",
+	            "showName": "爱乐之城",
+	            "showNameEn": "La La Land",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "爱情 歌舞",
+	            "wantCount": "47719"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": ""
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "20",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20170122175526",
+	                    "activityTag": "阳光普照",
+	                    "activityTitle": "春节优惠购票，名额有限抢完即止",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "20",
+	                    "description": "春节优惠购票，名额有限抢完即止",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "15387",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "999",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月14日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“阳光普照”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户每天可享受1次“阳光普照”活动，一次最多3张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "15387",
+	                    "promotionPrice": "3180",
+	                    "seatLimit": "3",
+	                    "showId": "199582",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国",
+	            "director": "邓伟锋",
+	            "duration": "85",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "风趣联萌，暖心童话",
+	            "id": "199582",
+	            "leadingRole": "姚雷,郭盛,李姗姗,叮当",
+	            "openDay": "2017-02-05 00:00:00",
+	            "openTime": "2017-02-05",
+	            "orderCount": "0",
+	            "poster": "i2/TB1H0lMPpXXXXazXVXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50376050.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50376050.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50376050.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/50376050.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1QE49PpXXXXbxXpXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "92",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50376050.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50376050.mp4",
+	                    "title": "终极预告片",
+	                    "uploadTime": "2017-02-02 15:45:04",
+	                    "videoId": "50376050"
+	                }
+	            ],
+	            "remark": "8.7",
+	            "showName": "萤火奇兵",
+	            "showNameEn": "Lighting Dindin",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "动画 奇幻 冒险",
+	            "wantCount": "11349"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": ""
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "20",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20170122175526",
+	                    "activityTag": "阳光普照",
+	                    "activityTitle": "春节优惠购票，名额有限抢完即止",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "20",
+	                    "description": "春节优惠购票，名额有限抢完即止",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "15387",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "999",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月14日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“阳光普照”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户每天可享受1次“阳光普照”活动，一次最多3张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "15387",
+	                    "promotionPrice": "2280",
+	                    "seatLimit": "3",
+	                    "showId": "180134",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "美国",
+	            "director": "丹尼斯·维伦纽瓦",
+	            "duration": "117",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "外星人入侵，各国忙应对",
+	            "id": "180134",
+	            "leadingRole": "艾米·亚当斯,杰瑞米·雷纳,福里斯特·惠特克,迈克尔·斯图巴",
+	            "openDay": "2017-01-20 00:00:00",
+	            "openTime": "2017-01-20",
+	            "orderCount": "0",
+	            "poster": "i1/TB1uat2PXXXXXcDXVXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50115334.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50115334.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50115334.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/50115334.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1Zf.XPXXXXXXYapXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "144",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50115334.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/50115334.mp4",
+	                    "title": "终极预告",
+	                    "uploadTime": "2017-01-20 10:00:35",
+	                    "videoId": "50115334"
+	                }
+	            ],
+	            "remark": "7.6",
+	            "showName": "降临",
+	            "showNameEn": "Arrival",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "科幻 冒险 悬疑",
+	            "wantCount": "41087"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": ""
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "20",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20170122175526",
+	                    "activityTag": "阳光普照",
+	                    "activityTitle": "春节优惠购票，名额有限抢完即止",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "20",
+	                    "description": "春节优惠购票，名额有限抢完即止",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "15387",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "999",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月14日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“阳光普照”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户每天可享受1次“阳光普照”活动，一次最多3张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "15387",
+	                    "promotionPrice": "2780",
+	                    "seatLimit": "3",
+	                    "showId": "122800",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "美国",
+	            "director": "莫腾·泰杜姆",
+	            "duration": "118",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "大表姐星爵上天，拯救全船乘客",
+	            "id": "122800",
+	            "leadingRole": "詹妮弗·劳伦斯,克里斯·帕拉特,迈克尔·辛,劳伦斯·菲什伯恩",
+	            "openDay": "2017-01-13 00:00:00",
+	            "openTime": "2017-01-13",
+	            "orderCount": "0",
+	            "poster": "i1/TB1CzI6OVXXXXayXVXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49825468.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49825468.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49825468.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/49825468.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB19tm_PXXXXXXXXVXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "86",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49825468.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49825468.mp4",
+	                    "title": "大表姐星爵拜早年预告片",
+	                    "uploadTime": "2017-01-13 10:19:43",
+	                    "videoId": "49825468"
+	                }
+	            ],
+	            "remark": "8.5",
+	            "showMark": "3D",
+	            "showName": "太空旅客",
+	            "showNameEn": "Passengers",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "剧情 冒险 科幻 爱情",
+	            "wantCount": "63492"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": "特惠抢票"
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "320",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20161114180832",
+	                    "activityTag": "特惠抢票",
+	                    "activityTitle": "特惠抢票，限购两张",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "320",
+	                    "description": "特惠抢票，限购两张",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "14356",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "20",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月3日，每日9点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“新春特惠”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户指定影片限享受1次“新春特惠”活动，一次最多2张特惠影票，同一笔订单中超过2张的部分可享受“阳光普照”活动，先到先得。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "14356",
+	                    "promotionPrice": "1980",
+	                    "seatLimit": "2",
+	                    "showId": "158865",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "澳大利亚 美国",
+	            "director": "梅尔·吉布森",
+	            "duration": "139",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "冲绳之役，成就医疗兵传奇",
+	            "id": "158865",
+	            "leadingRole": "安德鲁·加菲尔德,雨果·维文,卢克·布雷西,泰莉莎·帕尔墨,文斯·沃恩,萨姆·沃辛顿",
+	            "openDay": "2016-12-08 00:00:00",
+	            "openTime": "2016-12-08",
+	            "orderCount": "0",
+	            "poster": "i4/TB1Bua.OFXXXXcQXXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/48216103.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/48216103.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48216103.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/48216103.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1xAyNOFXXXXa0XVXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "119",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48216103.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48216103.mp4",
+	                    "title": "终极预告",
+	                    "uploadTime": "2016-12-08 13:41:12",
+	                    "videoId": "48216103"
+	                }
+	            ],
+	            "remark": "9.4",
+	            "showName": "血战钢锯岭",
+	            "showNameEn": "Hacksaw Ridge",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "剧情 战争",
+	            "wantCount": "60200"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "高希希",
+	            "duration": "126",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "直面腥风血雨，颠覆民国传奇",
+	            "id": "194267",
+	            "leadingRole": "何润东,黄子韬,古力娜扎,王学圻,秋瓷炫,高捷",
+	            "openDay": "2017-02-10 00:00:00",
+	            "openTime": "2017-02-10",
+	            "orderCount": "0",
+	            "poster": "i2/TB1FdwJNVXXXXbvXVXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/47607509.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/47607509.mp4",
+	                        "hd": "",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1nTl4PpXXXXXMXVXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "119",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/47607509.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/47607509.mp4",
+	                    "title": "“燃情”版预告片",
+	                    "uploadTime": "2016-11-27 00:51:53",
+	                    "videoId": "47607509"
+	                }
+	            ],
+	            "remark": "8.0",
+	            "showName": "遊戏规则",
+	            "showNameEn": "The Game Changer",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "动作 剧情",
+	            "wantCount": "14217"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": "特惠抢票"
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "320",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20161114180832",
+	                    "activityTag": "特惠抢票",
+	                    "activityTitle": "特惠抢票，限购两张",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "320",
+	                    "description": "特惠抢票，限购两张",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "14356",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "20",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月3日，每日9点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“新春特惠”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户指定影片限享受1次“新春特惠”活动，一次最多2张特惠影票，同一笔订单中超过2张的部分可享受“阳光普照”活动，先到先得。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "14356",
+	                    "promotionPrice": "2980",
+	                    "seatLimit": "2",
+	                    "showId": "189054",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国 中国台湾",
+	            "director": "陈玉勋",
+	            "duration": "116",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "舒淇扮丑，与王千源组喜感cp",
+	            "id": "189054",
+	            "leadingRole": "舒淇,王千源,张孝全,杨祐宁",
+	            "openDay": "2017-01-27 00:00:00",
+	            "openTime": "2017-01-27",
+	            "orderCount": "0",
+	            "poster": "i2/TB1xI2gPXXXXXXeXXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49776868.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49776868.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49776868.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/49776868.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB16NHSPXXXXXakXVXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "123",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49776868.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49776868.mp4",
+	                    "title": "终极预告",
+	                    "uploadTime": "2017-01-12 10:28:05",
+	                    "videoId": "49776868"
+	                }
+	            ],
+	            "remark": "6.8",
+	            "showName": "健忘村",
+	            "showNameEn": "The Village Of No Return",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "奇幻 喜剧",
+	            "wantCount": "29937"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "刘国楠",
+	            "duration": "120",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "209866",
+	            "leadingRole": "郑秀文,张孝全,徐黄丽,林雪,冯文娟,弦子",
+	            "openDay": "2017-02-14 00:00:00",
+	            "openTime": "2017-02-14",
+	            "orderCount": "0",
+	            "poster": "i4/TB1cGbrOFXXXXaYXXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49721457.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49721457.mp4",
+	                        "hd": "",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1NDx6PpXXXXaQXVXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "49",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49721457.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49721457.mp4",
+	                    "title": "“郑宗孝料”版预告片",
+	                    "uploadTime": "2017-01-11 00:51:59",
+	                    "videoId": "49721457"
+	                }
+	            ],
+	            "remark": "8.0",
+	            "showName": "合约男女",
+	            "showNameEn": "Love contractually",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "喜剧 爱情",
+	            "wantCount": "21647"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": "特惠抢票"
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "320",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20161114180832",
+	                    "activityTag": "特惠抢票",
+	                    "activityTitle": "特惠抢票，限购两张",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "320",
+	                    "description": "特惠抢票，限购两张",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "14356",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "20",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月3日，每日9点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“新春特惠”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户指定影片限享受1次“新春特惠”活动，一次最多2张特惠影票，同一笔订单中超过2张的部分可享受“阳光普照”活动，先到先得。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "14356",
+	                    "promotionPrice": "2980",
+	                    "seatLimit": "2",
+	                    "showId": "209220",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国",
+	            "director": "雪萌,张遥函,李清舫",
+	            "duration": "86",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "呆萌特工，拯救世界",
+	            "id": "209220",
+	            "leadingRole": "汤水雨,杨默,徐佳琦",
+	            "openDay": "2017-01-13 00:00:00",
+	            "openTime": "2017-01-13",
+	            "orderCount": "0",
+	            "poster": "i4/TB1cupzPXXXXXXAapXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49636055.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49636055.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49636055.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/49636055.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1OlusPXXXXXcLXXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "118",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49636055.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49636055.mp4",
+	                    "title": "终极预告",
+	                    "uploadTime": "2017-01-09 11:17:54",
+	                    "videoId": "49636055"
+	                }
+	            ],
+	            "remark": "8.6",
+	            "showMark": "3D",
+	            "showName": "大卫贝肯之倒霉特工熊",
+	            "showNameEn": "Backkom Bear：Agent 008",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "动画 家庭 冒险",
+	            "wantCount": "22462"
+	        },
+	        {
+	            "country": "中国 美国",
+	            "director": "伊桑·韦利",
+	            "duration": "91",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "131353",
+	            "leadingRole": "萨沙·杰克逊,苏嘉航,乔纳森·考斯瑞德,道格拉斯·泰特",
+	            "openDay": "2017-02-10 00:00:00",
+	            "openTime": "2017-02-10",
+	            "orderCount": "0",
+	            "poster": "i1/TB1V3UZPXXXXXXQXpXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/50278775.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50278775.mp4",
+	                        "hd": "",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB166lSPpXXXXcRaXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "31",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50278775.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/50278775.mp4",
+	                    "title": "终极版预告片",
+	                    "uploadTime": "2017-01-27 00:53:12",
+	                    "videoId": "50278775"
+	                }
+	            ],
+	            "remark": "4.7",
+	            "showMark": "3D",
+	            "showName": "大脚印",
+	            "showNameEn": "Da Jiao Yin",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "冒险 悬疑 灾难",
+	            "wantCount": "2872"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": ""
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "20",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20170122175526",
+	                    "activityTag": "阳光普照",
+	                    "activityTitle": "春节优惠购票，名额有限抢完即止",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "20",
+	                    "description": "春节优惠购票，名额有限抢完即止",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "15387",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "999",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月14日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“阳光普照”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户每天可享受1次“阳光普照”活动，一次最多3张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "15387",
+	                    "promotionPrice": "3280",
+	                    "seatLimit": "3",
+	                    "showId": "151449",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国 中国香港",
+	            "director": "程耳",
+	            "duration": "125",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "我们一直划桨，与波浪抗争",
+	            "id": "151449",
+	            "leadingRole": "葛优,章子怡,浅野忠信,杜淳",
+	            "openDay": "2016-12-16 00:00:00",
+	            "openTime": "2016-12-16",
+	            "orderCount": "0",
+	            "poster": "i4/TB1qJbEOFXXXXcDXXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/48465140.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/48465140.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48465140.mp4",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1d2QxOFXXXXb3XpXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "123",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48465140.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48465140.mp4",
+	                    "title": "终极预告片",
+	                    "uploadTime": "2016-12-14 00:51:53",
+	                    "videoId": "48465140"
+	                }
+	            ],
+	            "remark": "7.6",
+	            "showName": "罗曼蒂克消亡史",
+	            "showNameEn": "The Wasted Times",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "剧情 动作",
+	            "wantCount": "73260"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "梁栋",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "一次穿越，两全其美",
+	            "id": "193384",
+	            "leadingRole": "姜武,蒋勤勤,朱旭,李乃文,傅颖",
+	            "openDay": "2017-02-17 00:00:00",
+	            "openTime": "2017-02-17",
+	            "orderCount": "0",
+	            "poster": "i4/TB18ghYPpXXXXajapXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49378097.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49378097.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49378097.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/49378097.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1IsMpOVXXXXcNapXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "77",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49378097.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49378097.mp4",
+	                    "title": "趣味人生预告",
+	                    "uploadTime": "2017-01-03 18:11:55",
+	                    "videoId": "49378097"
+	                }
+	            ],
+	            "remark": "7.7",
+	            "showName": "完美有多美",
+	            "showNameEn": "The Door",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "剧情 奇幻 喜剧",
+	            "wantCount": "7519"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": ""
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "20",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20170122175526",
+	                    "activityTag": "阳光普照",
+	                    "activityTitle": "春节优惠购票，名额有限抢完即止",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "20",
+	                    "description": "春节优惠购票，名额有限抢完即止",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "15387",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "999",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月14日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“阳光普照”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户每天可享受1次“阳光普照”活动，一次最多3张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "15387",
+	                    "promotionPrice": "3280",
+	                    "seatLimit": "3",
+	                    "showId": "208070",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国",
+	            "director": "宋晓飞, 董旭",
+	            "duration": "113",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "四兄弟追爱大作战，组团开撩",
+	            "id": "208070",
+	            "leadingRole": "肖央,闫妮,小沈阳,乔杉",
+	            "openDay": "2016-12-30 00:00:00",
+	            "openTime": "2016-12-30",
+	            "orderCount": "0",
+	            "poster": "i4/TB1E.rMOVXXXXcfXFXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/48472265.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/48472265.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48472265.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/48472265.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1E7M7OFXXXXXpaFXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "107",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48472265.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48472265.mp4",
+	                    "title": "“搞事”版预告",
+	                    "uploadTime": "2016-12-14 10:41:27",
+	                    "videoId": "48472265"
+	                }
+	            ],
+	            "remark": "8.8",
+	            "showName": "情圣",
+	            "showNameEn": "Some Like It Hot",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "喜剧 爱情",
+	            "wantCount": "50717"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": "特惠抢票"
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "320",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20161114180832",
+	                    "activityTag": "特惠抢票",
+	                    "activityTitle": "特惠抢票，限购两张",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "320",
+	                    "description": "特惠抢票，限购两张",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "14356",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "20",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月3日，每日9点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“新春特惠”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户指定影片限享受1次“新春特惠”活动，一次最多2张特惠影票，同一笔订单中超过2张的部分可享受“阳光普照”活动，先到先得。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "14356",
+	                    "promotionPrice": "880",
+	                    "seatLimit": "2",
+	                    "showId": "159185",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "美国",
+	            "director": "特拉维斯·奈特",
+	            "duration": "102",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "巨星加盟配音，日式奇幻冒险",
+	            "id": "159185",
+	            "leadingRole": "阿特·帕金森,马修·麦康纳,查理兹·塞隆,拉尔夫·费因斯,鲁妮·玛拉",
+	            "openDay": "2017-01-13 00:00:00",
+	            "openTime": "2017-01-13",
+	            "orderCount": "0",
+	            "poster": "i2/TB1RamwPXXXXXa2XXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49721461.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49721461.mp4",
+	                        "hd": "",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1rwiyPXXXXXX6aXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "110",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49721461.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49721461.mp4",
+	                    "title": "终极预告片",
+	                    "uploadTime": "2017-01-11 00:52:04",
+	                    "videoId": "49721461"
+	                }
+	            ],
+	            "remark": "8.5",
+	            "showMark": "3D",
+	            "showName": "魔弦传说",
+	            "showNameEn": "Kubo and the Two Strings",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "动画 奇幻",
+	            "wantCount": "34773"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": "特惠抢票"
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "320",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20161114180832",
+	                    "activityTag": "特惠抢票",
+	                    "activityTitle": "特惠抢票，限购两张",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "320",
+	                    "description": "特惠抢票，限购两张",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "14356",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "20",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月3日，每日9点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“新春特惠”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户指定影片限享受1次“新春特惠”活动，一次最多2张特惠影票，同一笔订单中超过2张的部分可享受“阳光普照”活动，先到先得。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "14356",
+	                    "promotionPrice": "3480",
+	                    "seatLimit": "2",
+	                    "showId": "163027",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国 美国",
+	            "director": "张艺谋",
+	            "duration": "104",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "五军战饕餮，中国魂不灭",
+	            "id": "163027",
+	            "leadingRole": "马特·达蒙,景甜,佩德罗·帕斯卡,威廉·达福,刘德华,张涵予",
+	            "openDay": "2016-12-16 00:00:00",
+	            "openTime": "2016-12-16",
+	            "orderCount": "0",
+	            "poster": "i4/TB1FCxZOXXXXXXcaXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/45862110.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/45862110.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/45862110.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/45862110.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1.esDOpXXXXXpXFXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "150",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/45862110.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/45862110.mp4",
+	                    "title": "“饕餮围城”版预告片",
+	                    "uploadTime": "2016-10-09 15:35:28",
+	                    "videoId": "45862110"
+	                }
+	            ],
+	            "remark": "8.5",
+	            "showMark": "IMAX3D",
+	            "showName": "长城",
+	            "showNameEn": "The Great Wall",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "剧情 冒险 奇幻",
+	            "wantCount": "240638"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": "特惠抢票"
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "320",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20161114180832",
+	                    "activityTag": "特惠抢票",
+	                    "activityTitle": "特惠抢票，限购两张",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "320",
+	                    "description": "特惠抢票，限购两张",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "14356",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "20",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月3日，每日9点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“新春特惠”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户指定影片限享受1次“新春特惠”活动，一次最多2张特惠影票，同一笔订单中超过2张的部分可享受“阳光普照”活动，先到先得。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "14356",
+	                    "promotionPrice": "3480",
+	                    "seatLimit": "2",
+	                    "showId": "157281",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "英国",
+	            "director": "加文·胡德",
+	            "duration": "102",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "斯内普遗作，反恐陷入道德困境",
+	            "id": "157281",
+	            "leadingRole": "海伦·米伦,亚伦·保尔,艾伦·里克曼,伊恩·格雷",
+	            "openDay": "2017-01-13 00:00:00",
+	            "openTime": "2017-01-13",
+	            "orderCount": "0",
+	            "poster": "i2/TB1hh9sPXXXXXcuXXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49792536.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49792536.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49792536.mp4",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1xHmTPXXXXXahXVXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "119",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49792536.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49792536.mp4",
+	                    "title": "终极预告",
+	                    "uploadTime": "2017-01-12 15:18:24",
+	                    "videoId": "49792536"
+	                }
+	            ],
+	            "remark": "8.1",
+	            "showName": "天空之眼",
+	            "showNameEn": "Eye in the Sky",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "剧情 战争 悬疑",
+	            "wantCount": "14267"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": "特惠抢票"
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "320",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20161114180832",
+	                    "activityTag": "特惠抢票",
+	                    "activityTitle": "特惠抢票，限购两张",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "320",
+	                    "description": "特惠抢票，限购两张",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "14356",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "20",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月3日，每日9点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“新春特惠”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户指定影片限享受1次“新春特惠”活动，一次最多2张特惠影票，同一笔订单中超过2张的部分可享受“阳光普照”活动，先到先得。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "14356",
+	                    "promotionPrice": "2480",
+	                    "seatLimit": "2",
+	                    "showId": "165012",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国",
+	            "director": "丁晟",
+	            "duration": "124",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "成龙硬汉萌，偶像抗日寇",
+	            "id": "165012",
+	            "leadingRole": "成龙,黄子韬,房祖名,王凯",
+	            "openDay": "2016-12-23 00:00:00",
+	            "openTime": "2016-12-23",
+	            "orderCount": "0",
+	            "poster": "i3/TB1J4YKOFXXXXbRXVXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/48381943.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/48381943.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48381943.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/48381943.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1hcHIOFXXXXX1aXXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "93",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48381943.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48381943.mp4",
+	                    "title": "狂欢版预告",
+	                    "uploadTime": "2016-12-12 11:37:32",
+	                    "videoId": "48381943"
+	                }
+	            ],
+	            "remark": "8.7",
+	            "showMark": "3D",
+	            "showName": "铁道飞虎",
+	            "showNameEn": "Railroad Tigers",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "剧情 喜剧 动作",
+	            "wantCount": "86713"
+	        },
+	        {
+	            "country": "中国 中国香港",
+	            "director": "张嘉佳",
+	            "duration": "128",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "我们都会上岸，阳光万里",
+	            "id": "154578",
+	            "leadingRole": "梁朝伟,金城武,陈奕迅,杨颖",
+	            "openDay": "2016-12-23 00:00:00",
+	            "openTime": "2016-12-23",
+	            "orderCount": "0",
+	            "poster": "i4/TB1IKXjOVXXXXXkXpXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/48675217.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/48675217.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48675217.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/48675217.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB17rsYOFXXXXceaFXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "127",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48675217.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48675217.mp4",
+	                    "title": "《摆渡人》终极预告",
+	                    "uploadTime": "2016-12-18 17:07:21",
+	                    "videoId": "48675217"
+	                }
+	            ],
+	            "remark": "7.9",
+	            "showName": "摆渡人",
+	            "showNameEn": "See You Tomorrow",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "喜剧 爱情",
+	            "wantCount": "195209"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "沈星浩",
+	            "duration": "98",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "id": "30744",
+	            "leadingRole": "秦怡,秦怡,佟瑞欣",
+	            "openDay": "2017-01-09 00:00:00",
+	            "openTime": "2017-01-09",
+	            "orderCount": "0",
+	            "poster": "i2/TB11FxbPXXXXXXvXVXXXXXXXXXX_.jpg",
+	            "preview": [
+	                
+	            ],
+	            "remark": "7.7",
+	            "showName": "青海湖畔",
+	            "showNameEn": "The Beautiful Kokonor Lake",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "剧情",
+	            "wantCount": "1221"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "胡韵",
+	            "duration": "78",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "玩具世界陷入危机，泰迪挺身而出",
+	            "id": "195022",
+	            "leadingRole": "邓小婷,赵奔,白文显,孙亚军",
+	            "openDay": "2016-06-09 00:00:00",
+	            "openTime": "2016-06-09",
+	            "orderCount": "0",
+	            "poster": "i2/TB1cXzeJFXXXXbvXpXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/39544054.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/39544054.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/39544054.mp4",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1w4bRKXXXXXcMXpXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "85",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/39544054.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/39544054.mp4",
+	                    "title": "预告片",
+	                    "uploadTime": "2016-06-02 01:15:20",
+	                    "videoId": "39544054"
+	                }
+	            ],
+	            "remark": "7.7",
+	            "showMark": "3D",
+	            "showName": "泰迪熊之玩具大战",
+	            "showNameEn": "Toys War",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "动画 冒险 喜剧",
+	            "wantCount": "7767"
+	        },
+	        {
+	            "country": "中国",
+	            "director": "陈鹏振",
+	            "duration": "90",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "“鬼后”惠英红，港式惊悚片",
+	            "id": "211101",
+	            "leadingRole": "惠英红,陈颖欣,黄德斌,余秋瑶",
+	            "openDay": "2017-01-20 00:00:00",
+	            "openTime": "2017-01-20",
+	            "orderCount": "0",
+	            "poster": "i3/TB15kO1PXXXXXa5aXXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/49105684.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/49105684.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49105684.mp4",
+	                        "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/49105684.mp4"
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1b7f4PXXXXXbMXpXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "90",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49105684.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/49105684.mp4",
+	                    "title": "终极预告（国语版）",
+	                    "uploadTime": "2016-12-28 12:59:55",
+	                    "videoId": "49105684"
+	                }
+	            ],
+	            "remark": "4.8",
+	            "showName": "心惊胆战",
+	            "showNameEn": "Daughter",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "惊悚",
+	            "wantCount": "5787"
+	        },
+	        {
+	            "activities": [
+	                {
+	                    "activityExtTagMap": {
+	                        "APP_CARD_DETAIL": "",
+	                        "APP_SCHEDULE": "",
+	                        "SCHEDULE_ANNOUNCE": "",
+	                        "APP_ORDERING": "",
+	                        "APP_SHOW_CINEMA": "",
+	                        "APP_CINEMA": "",
+	                        "APP_SHOW": ""
+	                    },
+	                    "activityExtType": "2",
+	                    "activityPrice": "20",
+	                    "activityPriceLimit": "8000",
+	                    "activitySeq": "20170122175526",
+	                    "activityTag": "阳光普照",
+	                    "activityTitle": "春节优惠购票，名额有限抢完即止",
+	                    "activityType": "REDUCE",
+	                    "allowanceLimit": "20",
+	                    "description": "春节优惠购票，名额有限抢完即止",
+	                    "endTime": "2017-02-06 23:59:59",
+	                    "id": "15387",
+	                    "includeSales": "0",
+	                    "joinCount": "0",
+	                    "joinLimit": "999",
+	                    "longDescription": "1、活动时间：2017年1月28日-2月14日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“阳光普照”活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户每天可享受1次“阳光普照”活动，一次最多3张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+	                    "oriActivityId": "15387",
+	                    "promotionPrice": "3780",
+	                    "seatLimit": "3",
+	                    "showId": "200766",
+	                    "startTime": "2017-02-06 10:00:00"
+	                }
+	            ],
+	            "country": "中国",
+	            "director": "陆诗雷",
+	            "duration": "89",
+	            "fantastic": "0",
+	            "fromSearch": "false",
+	            "highlight": "理发而已，何须剃头",
+	            "id": "200766",
+	            "leadingRole": "殷果儿,姜星丘,陈嘉敏,任青安",
+	            "openDay": "2017-01-06 00:00:00",
+	            "openTime": "2017-01-06",
+	            "orderCount": "0",
+	            "poster": "i4/TB1ZYjNOVXXXXb9XFXXXXXXXXXX_.jpg",
+	            "preview": [
+	                {
+	                    "androidPhoneV23Url": {
+	                        "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/48861281.mp4",
+	                        "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/48861281.mp4",
+	                        "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48861281.mp4",
+	                        "ud": ""
+	                    },
+	                    "coverUrl": "http://img1.tbcdn.cn/tfscom/TB1_KgVOVXXXXcOXFXXXXXXXXXX.jpg_336x336q75s0.jpg",
+	                    "duration": "30",
+	                    "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48861281.mp4",
+	                    "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/48861281.mp4",
+	                    "title": "终极版预告片",
+	                    "uploadTime": "2016-12-22 17:47:32",
+	                    "videoId": "48861281"
+	                }
+	            ],
+	            "remark": "6.3",
+	            "showName": "恐怖理发店",
+	            "showNameEn": "Ghost In Barber’s",
+	            "specialSchedules": [
+	                
+	            ],
+	            "type": "惊悚 恐怖",
+	            "wantCount": "16873"
+	        }
+	    ]
+	},
+	"ret": [
+	    "SUCCESS::调用成功"
+	],
+	"v": "4.0"
+}

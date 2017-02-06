@@ -1,0 +1,53 @@
+.regionLayer{
+	position: fixed;
+	top: 40px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 100%;
+	background-color: rgba(0,0,0,.3);
+	font-size: 13px;
+	z-index: 101;
+	width: 100%;
+}
+.regionLayer .regionList{
+	max-height: 73%;
+	overflow: auto;
+	background-color: #fff;
+}
+.regionLayer .regionList .region-item{
+	height: 43px;
+	line-height: 43px;
+	padding: 0 25px 0 13px;
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    position: relative;
+}
+.regionLayer .regionList .region-item:after{
+	content: '';
+    display: block;
+    position: absolute;
+    left: 13px;
+    bottom: 0;
+    right: 0;
+    height: 1px;
+    background-color: #ebebeb;
+}
+.regionLayer .regionList .region-item.active{
+	background-color: #ebebeb;
+}
+.regionLayer .regionList .region-item.active:before{
+	content: '';
+    display: block;
+    width: 10px;
+    height: 5px;
+    border: 2px solid #eb002a;
+    border-width: 0 0 2px 2px;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    position: absolute;
+    right: 13px;
+    top: 50%;
+    margin-top: -5px;
+}
