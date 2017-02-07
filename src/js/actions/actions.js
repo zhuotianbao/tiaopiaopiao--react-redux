@@ -1,7 +1,6 @@
 import fetch from 'isomorphic-fetch';
 import { REQUEST_ISSUES, RECEIVE_ISSUES } from '../constants/ActionTypes.js';
 import { TABLEFT, TABRIGHT,SHOWCITYLIST,HIDECITYLIST,RECEIVE_CITY_LIST,SELECTCITYLIST,RECEIVE_BANNER_LIST,RECEIVE_MOVIE_LIST,RECEIVE_MoreMOVIE_LIST,REQUEST_LOADING } from '../constants/constants.js';
-import { CONFIG } from '../constants/Config.js';
 
 
 //点击正在热映tab
